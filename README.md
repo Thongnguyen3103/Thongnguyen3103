@@ -217,7 +217,7 @@ Repository chính cho việc học: bài tập, ghi chú và dự án thực hà
 
 [Xem Repository →](https://github.com/Thongnguyen3103/Smart_home)
 
-#### G12 Database
+#### Mini-Netflix Database
 **Thiết kế CSDL & SQL — Đồ án nhóm**
 
 Đồ án nhóm về thiết kế cơ sở dữ liệu quan hệ. Fork từ repository của nhóm và đóng góp chung.
