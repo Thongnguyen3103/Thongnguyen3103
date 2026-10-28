@@ -91,7 +91,7 @@ Coursework project exploring a smart home control system.
 
 [View Repository →](https://github.com/Thongnguyen3103/Smart_home)
 
-#### G12 Database
+#### Mini-Netflix Database
 **Database Design & SQL — Team Project**
 
 Group coursework project on relational database design. Forked from the team repository and contributed to collaboratively.
